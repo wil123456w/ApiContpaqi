@@ -1,0 +1,13 @@
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\bin\Debug\netcoreapp3.1\Object.dll
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\bin\Debug\netcoreapp3.1\Object.pdb
+C:\Contpaqi_v1\ApiContpaqi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete

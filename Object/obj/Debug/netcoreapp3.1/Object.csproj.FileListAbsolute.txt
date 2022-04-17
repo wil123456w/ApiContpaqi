@@ -1,0 +1,10 @@
+C:\Contpaqi_v1\ApiContpaqi\Object\bin\Debug\netcoreapp3.1\Object.deps.json
+C:\Contpaqi_v1\ApiContpaqi\Object\bin\Debug\netcoreapp3.1\Object.dll
+C:\Contpaqi_v1\ApiContpaqi\Object\bin\Debug\netcoreapp3.1\Object.pdb
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.csproj.AssemblyReference.cache
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.AssemblyInfoInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.AssemblyInfo.cs
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.csproj.CoreCompileInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.dll
+C:\Contpaqi_v1\ApiContpaqi\Object\obj\Debug\netcoreapp3.1\Object.pdb

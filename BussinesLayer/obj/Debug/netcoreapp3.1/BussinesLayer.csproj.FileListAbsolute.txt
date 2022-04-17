@@ -1,0 +1,15 @@
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\BussinesLayer.deps.json
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\BussinesLayer.dll
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\BussinesLayer.pdb
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\Object.dll
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\bin\Debug\netcoreapp3.1\Object.pdb
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.csproj.AssemblyReference.cache
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.AssemblyInfoInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.AssemblyInfo.cs
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.csproj.CopyComplete
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.dll
+C:\Contpaqi_v1\ApiContpaqi\BussinesLayer\obj\Debug\netcoreapp3.1\BussinesLayer.pdb
